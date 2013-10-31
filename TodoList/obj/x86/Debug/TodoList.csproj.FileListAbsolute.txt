@@ -1,0 +1,11 @@
+C:\研修\Projects\TodoList\TodoList\bin\Debug\TodoList.exe
+C:\研修\Projects\TodoList\TodoList\bin\Debug\TodoList.pdb
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.Form1.resources
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.Properties.Resources.resources
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.csproj.GenerateResource.Cache
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.exe
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.pdb
+C:\研修\Projects\TodoList\TodoList\obj\x86\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\研修\Projects\TodoList\TodoList\bin\Debug\TodoList.exe.config
+C:\研修\Projects\TodoList\TodoList\bin\Debug\TodoList.mdf
+C:\研修\Projects\TodoList\TodoList\bin\Debug\TodoList_log.ldf
