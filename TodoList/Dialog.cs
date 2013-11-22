@@ -8,6 +8,7 @@ using System.IO;
 
 namespace TodoList
 {
+    // TODO クラスの"XML Documentation"がない、クラスとパブリックメソッドには最低でもつけたい
     static public class Dialog
     {
         static public void ShowInfoMessage(string message)
