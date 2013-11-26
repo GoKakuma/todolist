@@ -74,6 +74,7 @@ namespace TodoList
 		}
 	}
 	
+
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Todo")]
 	public partial class Todo : INotifyPropertyChanging, INotifyPropertyChanged
 	{

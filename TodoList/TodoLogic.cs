@@ -7,6 +7,8 @@ using System.Text;
 
 namespace TodoList
 {
+    // TODO クラスの"XML Documentation"がない、クラスとパブリックメソッドには最低でもつけたい
+    // 
     sealed public class TodoLogic : Base, IDisposable
     {
         #region フィールドメンバー

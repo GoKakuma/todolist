@@ -5,11 +5,13 @@ using System.Text;
 
 namespace TodoList
 {
+    // TODO クラスの"XML Documentation"がない、クラスとパブリックメソッドには最低でもつけたい
     public class Command
     {
         private readonly Action<object> _execute;
         private readonly Func<object, bool> _canExecute;
 
+        // TODO ２つのコンストラクタのnullチェックで同じメッセージを返しているが、受けるときに見分けがつかないのでは？
         public Command(Action<object> execute,
             Func<Object, bool> canExecute = null)
         {
